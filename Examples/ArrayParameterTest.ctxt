@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=b
+comment1.target=void\ dbl1(int[])
+comment1.text=\r\n\ Doubles\ the\ first\ element\ of\ the\ input\ array\r\n
+comment2.params=c
+comment2.target=void\ dbl2(int[])
+comment2.text=\r\n\ Creates\ a\ new\ array\ with\ the\ SAME\ NAME\ as\ the\ input\ array,\r\n\ and\ thereby\ destroys\ the\ old\ reference\ to\ the\ input\ array\ within\r\n\ the\ method.\ \r\n
+numComments=3

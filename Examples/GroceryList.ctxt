@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GroceryList()
+comment1.params=
+comment1.target=int\ getNumberOfItems()
+comment2.params=
+comment2.target=double\ getTotalCost()
+comment3.params=
+comment3.target=void\ print()
+numComments=4

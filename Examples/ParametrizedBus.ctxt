@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=x\ y\ scale\ g
+comment1.target=void\ bus(int,\ int,\ int,\ java.awt.Graphics)
+comment1.text=\r\n\ This\ method\ draws\ a\ school\ bus\ whose\ position\ and\ size\ are\ parametrized.\r\n
+numComments=2

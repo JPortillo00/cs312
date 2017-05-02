@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=cons
+comment1.target=double\ person(java.util.Scanner)
+comment1.text=\ this\ method\ gets\ the\ weight\ and\ height\ of\ a\ person,\ and\ returns\ \r\n\ \ \ \ \ \ \ \ \ \ \ BMI.\r\n
+comment2.params=w\ h
+comment2.target=double\ bmi(double,\ double)
+comment3.params=number\ bmi
+comment3.target=void\ report(int,\ double)
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=n
+comment1.target=boolean\ hasAnOddDigit(int)
+comment2.params=n
+comment2.target=boolean\ allDigitsOdd(int)
+comment3.params=a
+comment3.target=boolean\ isAllVowels(java.lang.String)
+comment4.params=a
+comment4.target=boolean\ isAllVowels2(java.lang.String)
+comment4.text=\r\n\ This\ method\ has\ the\ same\ function\ as\ isAllVowels,\ but\ uses\r\n\ DeMorgan's\ laws\ to\ write\ the\ logic\ differently.\r\n\ If\ the\ current\ character\ in\ the\ String\ a\ is\ neither\ a,\ nor\ e,\r\n\ nor\ i,\ nor\ o,\ nor\ u,\ then\ it\ is\ not\ a\ vowel.\ \ Return\ false.\r\n
+numComments=5
