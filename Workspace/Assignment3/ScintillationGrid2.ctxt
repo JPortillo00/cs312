@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=a\ x\ y\ size\ lines\ thickness
+comment1.target=void\ grids(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int)
+comment2.params=p\ i\ j\ s
+comment2.target=void\ blackBox(java.awt.Graphics,\ int,\ int,\ int)
+comment3.params=p\ x\ y\ s\ l\ t\ I
+comment3.target=void\ verticalLines(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int)
+comment4.params=p\ x\ y\ s\ l\ t\ I
+comment4.target=void\ horizontalLines(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int)
+comment5.params=p\ x\ y\ s\ l\ t\ I
+comment5.target=void\ circleDots(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int)
+numComments=6

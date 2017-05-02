@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomPlayer()
+comment1.params=
+comment1.target=int\ play()
+comment1.text=\r\n\ Generates\ a\ random\ sequence\ of\ integers\ among\ 1,\ 2,\ and\ 3.\r\n
+numComments=2

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ConnectFourWRNG
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=java.lang.String[][]\ Board()
+comment11.params=brd
+comment11.target=void\ currentBoard(java.lang.String[][])
+comment12.params=input\ inpt\ plyr
+comment12.target=java.lang.String\ alphaChck(java.util.Scanner,\ java.lang.String,\ java.lang.String)
+comment2.params=input\ board\ plyr\ pce1\ pce2
+comment2.target=java.lang.String[][]\ Game(java.util.Scanner,\ java.lang.String[][],\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=input\ board\ inpt\ pce1\ pce2\ plyr
+comment3.target=java.lang.String[][]\ boardChck(java.util.Scanner,\ java.lang.String[][],\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=board\ pce1\ pce2\ plyr
+comment4.target=boolean\ winChck(java.lang.String[][],\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=board\ pce1\ pce2
+comment5.target=boolean\ drawGame(java.lang.String[][],\ java.lang.String,\ java.lang.String)
+comment6.params=board\ pce1\ pce2
+comment6.target=boolean\ southChck(java.lang.String[][],\ java.lang.String,\ java.lang.String)
+comment7.params=board\ pce1\ pce2
+comment7.target=boolean\ eastChck(java.lang.String[][],\ java.lang.String,\ java.lang.String)
+comment8.params=board\ pce1\ pce2
+comment8.target=boolean\ seChck(java.lang.String[][],\ java.lang.String,\ java.lang.String)
+comment9.params=board\ pce1\ pce2
+comment9.target=boolean\ swChck(java.lang.String[][],\ java.lang.String,\ java.lang.String)
+numComments=13

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=playIn\ r\ n
+comment1.target=void\ Game(java.util.Scanner,\ int,\ java.lang.String)
+comment2.params=plyr\ comp
+comment2.target=void\ MatchOutcomes(int,\ int)
+comment3.params=q\ w\ l
+comment3.target=int\ Rock(int,\ int,\ int)
+comment4.params=s\ w\ l
+comment4.target=int\ Paper(int,\ int,\ int)
+comment5.params=t\ w\ l
+comment5.target=int\ Scissor(int,\ int,\ int)
+comment6.params=compChce
+comment6.target=java.lang.String\ ComputerChoice(int)
+comment7.params=plyrC
+comment7.target=java.lang.String\ PlayerChoice(int)
+numComments=8

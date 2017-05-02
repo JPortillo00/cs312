@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ showIntro()
+comment10.params=encryptedMessage\ expected\ rows\ testNumber
+comment10.target=void\ decryptTest(java.lang.String,\ java.lang.String,\ int,\ int)
+comment11.params=clearMessage\ expected\ rows\ testNumber
+comment11.target=void\ encryptTest(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=encrypt\ rows
+comment2.target=void\ encryptNoPad(java.lang.String,\ int)
+comment3.params=encrypt\ rows
+comment3.target=void\ encryptPad(java.lang.String,\ int)
+comment4.params=message\ row
+comment4.target=java.lang.String\ encryptMessage(java.lang.String,\ int)
+comment5.params=keyboard
+comment5.target=void\ doEncryptions(java.util.Scanner)
+comment6.params=code\ rows
+comment6.target=void\ doDecrypt(java.lang.String,\ int)
+comment7.params=code\ rows
+comment7.target=java.lang.String\ decryptMessage(java.lang.String,\ int)
+comment8.params=keyboard
+comment8.target=void\ doDecryptions(java.util.Scanner)
+comment9.params=
+comment9.target=void\ showTests()
+numComments=12

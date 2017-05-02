@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=play
+comment1.target=java.lang.String\ Name(java.util.Scanner)
+comment10.params=Name\ Rounds\ WINS\ LOSE\ DRAWS
+comment10.target=void\ MatchResults(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=play\ name
+comment2.target=int\ NoRounds(java.util.Scanner,\ java.lang.String)
+comment3.params=playIn\ r\ n
+comment3.target=void\ Game(java.util.Scanner,\ int,\ java.lang.String)
+comment4.params=compChce
+comment4.target=java.lang.String\ ComputerChoice(int)
+comment4.text=The\ Methods\ ComputerChoice\ and\ PlayerChoice\ are\ used\ \r\n\ so\ the\ program\ may\ print\ out\ the\ correct\ expression\ after\ both\ have\ mad\ a\ choice.\ ie.\ 1\ prints\ Rock\ etc.\r\n
+comment5.params=plyrC
+comment5.target=java.lang.String\ PlayerChoice(int)
+comment6.params=plyr\ comp
+comment6.target=void\ MatchOutcomes(int,\ int)
+comment7.params=ply\ com\ w
+comment7.target=int\ Win(int,\ int,\ int)
+comment7.text=The\ following\ methods\:\ Win,\ Lose,\ Draw\ are\ methods\ that\ sum\ up\ the\ outcomes\ of\ the\ games.\r\n\ \ \ \ The\ Method\ Win\ records\ the\ number\ of\ times\ the\ player\ has\ won.\r\n\ \ \ \ The\ Method\ Lose\ records\ the\ number\ of\ times\ the\ player\ has\ loss\ or\ in\ other\ owrds\ the\ computer\ has\ won.\r\nThe\ method\ Draw\ records\ the\ number\ of\ time\ the\ computer\ and\ player\ have\ tied\ in\ a\ round.
+comment8.params=ply\ com\ l
+comment8.target=int\ Lose(int,\ int,\ int)
+comment9.params=ply\ com\ d
+comment9.target=int\ Draw(int,\ int,\ int)
+numComments=11

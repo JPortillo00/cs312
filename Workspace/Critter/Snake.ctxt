@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=goEast
+comment0.target=Snake(boolean)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.awt.Color\ getColor()
+comment3.params=
+comment3.target=boolean\ eat()
+comment3.text=\r\n\ Eat\ randomly\ when\ food\ is\ encountered.\r\n\ @see\ Critter\#eat()\r\n
+numComments=4

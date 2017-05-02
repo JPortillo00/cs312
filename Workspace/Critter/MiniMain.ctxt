@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ test1()
+comment2.params=critter\ times
+comment2.target=void\ moves(Critter,\ int)
+comment2.text=\r\n\t//\ A\ bigger\ test\ (move\ several\ animals).\ \ You\ can\ un-comment\ this\r\n\t//\ test\ (delete\ the\ /*\ and\ *\ /)\ once\ you\ implement\ the\ rest\ of\ the\ animals.\r\n\t//\ You'll\ also\ need\ to\ un-comment\ the\ call\ to\ test2\ up\ in\ main.\r\n\t\r\n\tpublic\ static\ void\ test2()\ {\r\n\t\tSystem.out.println("Test\ 2\ (all\ animals)\:");\r\n\r\n\t\t//\ Ant\r\n\t\tAnt\ ant1\ \=\ new\ Ant(true);\r\n\t\tAnt\ ant2\ \=\ new\ Ant(false);\r\n\t\tmoves(ant1,\ 5);\r\n\t\tmoves(ant2,\ 10);\r\n\t\tSystem.out.println();\r\n\t\t\r\n\t\t//\ Bird\r\n\t\tBird\ bird1\ \=\ new\ Bird();\r\n\t\tBird\ bird2\ \=\ new\ Bird();\r\n\t\tmoves(bird1,\ 17);\r\n\t\tmoves(bird2,\ 14);\r\n\t\tSystem.out.println();\r\n\t\t\r\n\t\t//\ Hippo\ (movement\ is\ random\ so\ may\ not\ match\ perfectly)\r\n\t\tHippo\ hippo1\ \=\ new\ Hippo(4);\r\n\t\tHippo\ hippo2\ \=\ new\ Hippo(0);\r\n\t\tmoves(hippo1,\ 8);\r\n\t\tmoves(hippo2,\ 12);\r\n\t\teating(hippo1,\ 6);\r\n\t\tSystem.out.println();\r\n\r\n\t\t//\ Vulture\r\n\t\tVulture\ vulture1\ \=\ new\ Vulture();\r\n\t\tVulture\ vulture2\ \=\ new\ Vulture();\r\n\t\tmoves(vulture1,\ 13);\r\n\t\tmoves(vulture2,\ 8);\r\n\t\tSystem.out.println();\r\n\t}\r\n
+comment3.params=critter\ times
+comment3.target=void\ eating(Critter,\ int)
+numComments=4

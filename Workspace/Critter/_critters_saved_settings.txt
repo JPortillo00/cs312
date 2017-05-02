@@ -1,0 +1,16 @@
+#CS 312 Critters saved settings
+#Tue Jun 03 14:50:10 CDT 2014
+Pokemon=true
+Height=100
+Number\ of\ each\ critter=1000
+Network\ features=false
+Vulture=true
+Snake=true
+Secure\ tournament\ mode=true
+Bird=true
+Debug\ output=false
+Cat=true
+Ant=true
+Hippo=true
+Width=100
+Stone=true

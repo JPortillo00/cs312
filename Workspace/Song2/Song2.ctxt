@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ flyDie()
+comment1.params=
+comment1.target=void\ SpidertoFly()
+comment1.text=The\ Following\ methods\ contain\ the\ lines\ in\ which\ why\ she\ swallowed\ each\ animal.\r\n\ \ \ \ \ The\ name\ of\ the\ method\ is\ suppose\ to\ hint\ at\ which\ line\ it\ represents.\r\nExample\ SppidertoFly\ would\ be\ Spider\ to\ eat\ Fly
+comment2.params=
+comment2.target=void\ BirdtoSpider()
+comment3.params=
+comment3.target=void\ CattoBird()
+comment4.params=
+comment4.target=void\ DogtoCat()
+comment5.params=
+comment5.target=void\ GoattoDog()
+comment6.params=
+comment6.target=void\ CowtoGoat()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

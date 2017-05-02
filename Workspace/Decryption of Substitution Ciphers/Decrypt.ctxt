@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=char[]\ ASCII()
+comment2.params=Text\ key\ ascii
+comment2.target=void\ Decoding(java.lang.String,\ char[],\ char[])
+comment3.params=Text\ ascii\ key\ input
+comment3.target=char[]\ inputChanges(java.lang.String,\ char[],\ char[],\ java.util.Scanner)
+comment4.params=Text\ key\ ascii
+comment4.target=java.lang.String\ Decryption(java.lang.String,\ char[],\ char[])
+comment5.params=Text\ ascii
+comment5.target=int[]\ Frequencies(java.lang.String,\ char[])
+comment6.params=ascii\ CharFreq\ key
+comment6.target=void\ FreqCode(char[],\ int[],\ char[])
+comment7.params=Text\ key\ ascii
+comment7.target=void\ Summary(java.lang.String,\ char[],\ char[])
+numComments=8

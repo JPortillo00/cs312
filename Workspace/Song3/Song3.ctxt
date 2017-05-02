@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ flyDie()
+comment1.params=
+comment1.target=void\ sheSwallowed()
+comment2.params=
+comment2.target=void\ toCatch()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
